@@ -1,0 +1,15 @@
+<resources>
+    <!--GENERAL-->
+    <string name="app_name">Practica2_VistasDeclarativasXML</string>
+    <!--ONBOARDING ACTIVITY-->
+    <string name="onboarding_title">Tu App de Viajes</string>
+    <string name="onboarding_infotext">Hola, estamos buscando a millones de usuarios con inquietudes y ganas de viajar. Si eres tu? No lo dudes accede a nuestra app y descubriras miles de destinos y facilidades para alquilar coches, ver el tiempo...</string>
+    <string name="button_next">Next</string>
+    <!--HOME ACTIVITY-->
+    <string name="home_title">Upcoming meetups</string>
+    <string name="home_card1_title">City of Los Angeles</string>
+    <string name="home_card1_subtitle">USA, Los Angeles - 2 Weeks</string>
+    <string name="home_card2_title">Beach vacation</string>
+    <string name="home_card2_subtitle">Madives - 3 Weeks</string>
+    <string name="home_activity_title">Upcoming meetups</string>
+</resources>
